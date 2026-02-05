@@ -50,3 +50,6 @@
 - Blockchain representa una evolución importante en la forma en que la humanidad maneja la confianza digital. Permite construir sistemas más transparentes, seguros y descentralizados. En un mundo cada vez más digital, tecnologías como blockchain pueden cambiar industrias completas, desde finanzas hasta gobierno digital.
 
 - Además, su integración futura con IA, IoT y Web3 puede transformar la economía digital global.
+
+**Bibliografía**
+- Blockchain y Smartcontracts: La revolución de la confianza, Emiliano B. Ortiz, Editorial: Alfaomega 2018, ISBN: 978-84-948672-1-4.
